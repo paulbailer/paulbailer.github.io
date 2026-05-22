@@ -1,47 +1,52 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Paul Georg Bailer",
+    "label": "Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "page.bailer@gmx.de",
+    "phone": "+49 (0) 173 2132062",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Straße",
+      "postalCode": "PLZ",
+      "city": "Berlin",
+      "countryCode": "Germany",
+      "region": "Berlin"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "github",
+        "username": "paulbailer",
+        "url": "https://github.com/paulbailer"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Service4Charger GmbH",
+      "position": "Working Student",
+      "url": "https://service4charger.de",
+      "startDate": "2021-08-01",
+      "endDate": "2022-10-31",
+      "summary": "Commissioning, configuration and monitoring of charging infrastructure.",
+      "highlights": ["Monthly backend reporting", "Technical Support"]
+    },
+    {
+      "name": "U-Need GmbH",
+      "position": "Part Time Job",
+      "url": "https://u-need.de",
+      "startDate": "2023-01-01",
+      "endDate": "2025-12-31",
+      "summary": "Experienced stagehand supporting concerts, festivals, and various live events.",
+      "highlights": ["Crew chief managing teams of up to 20 people", "Certified forklift operator"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "fLotte Berlin e.V.",
+      "position": "Radpate",
+      "url": "https://flotte-berlin.de",
+      "startDate": "2025-08-01",
+      "summary": "Volunteer bike guardian for a nonprofit organization offering free cargo bike rentals. Responsible for regular maintenance checks and minor repairs."
     }
   ],
   "education": [
