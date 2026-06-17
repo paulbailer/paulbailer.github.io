@@ -2,26 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: B.Sc. Student — Business & Computer Science · HTW Berlin
 
 profile:
   align: right
   image: profilepicture.jpeg
-  image_circular: false # crops the image to make it circular
-more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: false
 
-
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false
+latest_posts: false
+selected_papers: false
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Business and Computer Science student at HTW Berlin with a background in Mathematics. I began my studies at Freie Universität Berlin before transitioning to Business Mathematics at HTW, where my interest in programming grew steadily throughout my coursework. Realising that software development was where I wanted to focus, I switched to Business and Computer Science — a combination that lets me work at the intersection of technical problem-solving and business thinking.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Alongside my studies, I spent two years working as a stagehand on concerts and live events, where I regularly led crews of up to 20 people. That experience shaped how I approach collaboration: I find that the best solutions tend to come from open communication, clearly shared goals, and working through problems together rather than in isolation. Outside of work and studies, I enjoy cycling and cooking.
