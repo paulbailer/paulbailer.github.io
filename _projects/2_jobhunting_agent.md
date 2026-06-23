@@ -3,7 +3,7 @@ layout: page
 title: Adaptive Study & Career Agent
 description: AI multi-agent system that adapts your study plan and finds matching internships based on your academic progress.
 importance: 1
-category: work
+category: uni
 ---
 
 > This project is still under active development.

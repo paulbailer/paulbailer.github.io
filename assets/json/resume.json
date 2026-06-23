@@ -121,9 +121,19 @@
   ],
   "interests": [
     {
-      "name": "Software Development",
-      "icon": "fa-solid fa-laptop-code",
-      "keywords": ["Automation", "AI Agents", "Web Development"]
+      "name": "Cooking",
+      "icon": "fa-solid fa-utensils",
+      "keywords": []
+    },
+    {
+      "name": "Cycling",
+      "icon": "fa-solid fa-bicycle",
+      "keywords": []
+    },
+    {
+      "name": "Music",
+      "icon": "fa-solid fa-music",
+      "keywords": []
     }
   ],
   "projects": []
